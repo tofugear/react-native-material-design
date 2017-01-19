@@ -1,0 +1,68 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M1079.138 275.692h-827.077l-66.954-275.692h-185.108v39.385h153.6l192.985 791.631c-39.385 11.815-70.892 51.2-70.892 94.523 0 55.138 43.323 98.462 98.462 98.462s98.462-43.323 98.462-98.462c0-23.631-7.877-43.323-19.692-59.077h275.692c-11.815 15.754-19.692 35.446-19.692 59.077 0 55.138 43.323 98.462 98.462 98.462s98.462-43.323 98.462-98.462-43.323-98.462-98.462-98.462h-421.415l-19.692-78.769h551.385l161.477-472.615zM807.385 866.462c31.508 0 59.077 27.569 59.077 59.077s-27.569 59.077-59.077 59.077-59.077-27.569-59.077-59.077 27.569-59.077 59.077-59.077zM374.154 866.462c31.508 0 59.077 27.569 59.077 59.077s-27.569 59.077-59.077 59.077-59.077-27.569-59.077-59.077 27.569-59.077 59.077-59.077z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "width": 1079,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "minicart-icon-44d61934bdec9f66a7f7fdf4504ac8fcdab9b6068f170cca0a13fa18d323ec15"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 2,
+        "id": 0,
+        "name": "minicart-icon",
+        "prevSize": 32,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 100,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
